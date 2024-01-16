@@ -1,0 +1,8 @@
+Language: Cpp
+BasedOnStyle: Google
+ColumnLimit: 80
+AccessModifierOffset: -2
+ContinuationIndentWidth: 8
+IndentWidth: 4
+AlignAfterOpenBracket: true
+AlignArrayOfStructures: true
