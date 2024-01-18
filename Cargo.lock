@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+name = "complete_search"
+version = "0.1.0"
+
+[[package]]
 name = "sorting"
 version = "0.1.0"
